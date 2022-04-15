@@ -7,11 +7,6 @@ version:  0.0.1
 
 language: de
 
-narrator: US English Female
-
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
-
 -->
 
 # Fischbestimmer
@@ -86,6 +81,7 @@ Saugscheibe:
 ![Aal](pic/aal_2.png)
 ![Aal](pic/aal_3.png)
 
+<!-- class="notranslate" -->
 D-Aal, Flussaal, Gelbaal, Blankaal; GB-Eel, common eel, european eel; DK-Ål;
 PL-Węgorz europejski; LT-Ungurys; LV-Zutis; EST-Angerjas; RU-Речной угорь;
 FIN-Ankerias; S-Europeisk ål
@@ -151,6 +147,7 @@ stark gefährdet. Der Aal kann nicht in Gefangenschaft nachgezogen werden.
 ![Dorsch](pic/dorsch_2.png)
 ![Dorsch](pic/dorsch_3.png)
 
+<!-- class="notranslate" -->
 D-Dorsch, Kabeljau; GB-Cod; DK-Torsk; PL-Dorz; LT-Mence; LV-Menca; EST-Tursk;
 RU-Атлантическая треска; FIN-Turska; S-Torsk Erkennungsmerkmale
 
@@ -231,6 +228,7 @@ Gewässerverschmutzung und Habitatzerstörung.
 ![Meerneunauge](pic/meerneunauge_3.png)
 ![Meerneunauge](pic/meerneunauge_4.png)
 
+<!-- class="notranslate" -->
 D-Meerneunauge; GB-Sea lamprey, great sea lamprey, green sea lamprey;
 DK-Havlempret; PL-Minóg morski; LT-Upinė nėgė; LV-Jūras nēģis; EST-Merisutt;
 RU-Минога морская; FIN-Merinahkiainen; S-Havsnejonöga Erkennungsmerkmale
@@ -293,6 +291,7 @@ Gewässerverschmutzung.
 ![Seehase](pic/seehase_3.png)
 ![Seehase](pic/seehase_4.png)
 
+<!-- class="notranslate" -->
 D-Seehase; GB-Lumpsucker, Lumpfish; DK-Stenbider; PL-Tasza; LT-Ciegorius;
 LV-Zaķzivs; EST-Merivarblane; RU-Пинагор; FIN-Rasvakala; S-Sjurygg
 
@@ -369,6 +368,7 @@ Fortpflanzungszeit werden die Männchen leuchtend rot.
 ![Wittling](pic/wittling_2.png)
 ![Wittling](pic/wittling_3.png)
 
+<!-- class="notranslate" -->
 D-Wittling, Merlan; GB-Whiting, merling; DK-Hvilling; PL-Witlinek; LV-Merlangs; EST-Merlang; RU-Мерланг; FIN-Valkoturska; S-Vitling
 Erkennungsmerkmale
 
